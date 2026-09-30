@@ -7,7 +7,7 @@
 ## 📌 Project Overview
 The goal of this project is to identify customers who are likely to make a repeat purchase (Loyal Customers) versus those who will churn. By accurately predicting customer retention, marketing teams can optimize their budgets by targeting high-risk customers with discounts while avoiding unnecessary ad spend on those already guaranteed to return.
 
-**🔗 [View Interactive Dashboard in Looker Studio](https://datastudio.google.com/s/jf2jdEhHIsc)**
+**🔗 [View Interactive Dashboard in Looker Studio](https://datastudio.google.com/reporting/79a77285-b391-43ad-bc8f-90a5a23060e0)**
 
 ## 🛠️ Tech Stack
 * **Data Warehouse Engine:** Google BigQuery
